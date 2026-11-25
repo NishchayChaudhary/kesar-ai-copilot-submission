@@ -10,7 +10,7 @@ An n8n workflow that reads customer support emails, classifies them with an LLM,
 | Deliverable | Link |
 |---|---|
 | Google Sheet (view access) | [Kesar Support](https://docs.google.com/spreadsheets/d/1ND9frVGF9OcPSomBIu_NTEghAllosTrbPEARilzEm3s/edit?usp=sharing) |
-| 5-minute demo video | `<ADD LINK>` |
+| 5-minute demo video | `<https://youtu.be/wbJvLfUcE4Q>` |
 | Workflow export | [`workflow/kesar-copilot-v2.json`](workflow/kesar-copilot-v2.json) |
 | Test report | [`TEST_REPORT.md`](TEST_REPORT.md) |
 
