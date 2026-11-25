@@ -181,7 +181,8 @@ I used Claude as an AI assistant throughout. It assisted with the n8n setup and 
 .
 ├── README.md
 ├── TEST_REPORT.md
-└── kesar-copilot-v2.json
+├── workflow/
+│   └── kesar-copilot-v2.json
 └── screenshots/
     ├── workflow.png
     ├── tickets.png
